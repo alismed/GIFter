@@ -6,4 +6,6 @@ This repo is developed and maintained for the [Quick Start: Unlocked Packages](h
 
 It was originally created by [Wade Wegner](https://github.com/wadewegner).
 
+It is necessary modify [GIPHY.resource](force-app/main/default/staticresources/GIPHY.resource) to add the [Giphy](https://developers.giphy.com/) developer key.
+
 ![image](images/gifter.png)
